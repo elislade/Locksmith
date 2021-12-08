@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import Locksmith
+@testable import Locksmith
 
 class LocksmithTests: XCTestCase {
     let userAccount = "myUser"
